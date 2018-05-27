@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "D7C16E27-907E-4EFC-9C36-A2D61190957C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 301,
+    "width": 528,
+    "x": 63,
+    "y": 204
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "0DFCF3F0-EE73-4E55-8689-7D2845E3DC08"
+    },
+    {
+      "class": "text",
+      "id": "A5D30EFA-4E50-48B2-8070-CB71023F32A6"
+    }
+  ],
+  "name": "1, Emergency numbers",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

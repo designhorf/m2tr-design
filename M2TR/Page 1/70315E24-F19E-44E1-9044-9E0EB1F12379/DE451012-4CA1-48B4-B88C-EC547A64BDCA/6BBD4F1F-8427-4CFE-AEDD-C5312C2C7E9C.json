@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbW5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAeHyAhIiMnLzAxMjM6PkpLTE1OT1BRUlRfYmVpVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADXxAUT1BFTiBBIApCQU5LIEFDQ09VTlTTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAmAEYAbgBpfEChNU0F0dHJpYnV0ZWRTdHJpbmdUZXh0VHJhbnNmb3JtQXR0cmlidXRlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGUQAdIKJCUmXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAEIAK0xESCigrLqIpKoALgAyiLC2ADYAOgA9fEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAPgAAAAAAAF8QEFByb3hpbWFOb3ZhLUJvbGTSNDU2N1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaM2ODlcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00jQ1OzxfEBBOU0ZvbnREZXNjcmlwdG9yoj05XxAQTlNGb250RGVzY3JpcHRvctMREgo/RB2kQEFCQ4ASgBOAFIAVpEVGR0iAFoAXgBiAGYAaU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/BEREREREQIz/wAAAAAAAAIz/BEREREREQIz/BEREREREQ0jQ1OFOiODnWVVZXWApZWlsiXF1cWk5TVGFiU3RvcHNbTlNBbGlnbm1lbnRfEBJOU1dyaXRpbmdEaXJlY3Rpb25cTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzgAAQAoAcgB6AHNISCmBhoIAd0jQ1Y2RXTlNBcnJheaJjOdI0NWZnXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjZmg5XxAQTlNQYXJhZ3JhcGhTdHlsZdI0NWprXxASTlNBdHRyaWJ1dGVkU3RyaW5nomw5XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0W9wVHJvb3SAAQAIABEAGgAjAC0AMgA3AFoAYABnAHAAdwCEAIYAiACKAKEAqACwALsAwADCAMQAxgDIAM0AzwDRANMA1QDXAQIBJAFRAWQBZgFrAYgBigGMAZMBlgGYAZoBnQGfAaEBowG5Ac8B2AHrAfAB+wIEAhoCHgIrAjQCOQJMAk8CYgJpAm4CcAJyAnQCdgJ7An0CfwKBAoMChQKJAo8ClAKaAqMCrAK1Ar4CwwLGAtMC3gLqAv8DDAMYAxoDHAMeAyADIgMnAygDKgMvAzcDOgM/A1kDXQNwA3UDigONA6IDtAO3A7wAAAAAAAACAQAAAAAAAABxAAAAAAAAAAAAAAAAAAADvg=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "6BBD4F1F-8427-4CFE-AEDD-C5312C2C7E9C",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 74,
+    "width": 295,
+    "x": 40,
+    "y": 0
+  },
+  "glyphBounds": "{{32, 7}, {232, 59}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Rent a flat in Malta",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "BE0A4BA7-74FC-45D8-BCC7-253EEC6FE8A8"
+  },
+  "textBehaviour": 1
+}

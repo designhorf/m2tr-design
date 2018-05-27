@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "26D7A2CD-78DF-46E3-92CB-162D7A59551E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 25,
+    "width": 25,
+    "x": 80,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "99EDBA9E-9B0C-4504-BFDF-7DAD877FB47B"
+    },
+    {
+      "class": "bitmap",
+      "id": "0E9A676F-7C45-4A34-B1EF-118E46C863F5"
+    },
+    {
+      "class": "text",
+      "id": "29683E71-884C-4A0C-8513-66C06B39424C"
+    }
+  ],
+  "name": "twitter",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

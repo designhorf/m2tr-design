@@ -1,0 +1,174 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "566EF27A-9777-48F9-B81D-829E3E00557E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 60.357,
+    "width": 71.65200000000002,
+    "x": 0.1739999999990687,
+    "y": 0.8209999999999127
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "02EE0D63-E217-45C4-8954-A8F38E2E3826"
+    },
+    {
+      "class": "shapePath",
+      "id": "FF958E3D-81F3-49D7-9B55-C503C1516087"
+    },
+    {
+      "class": "shapePath",
+      "id": "AD0F79C6-CBD0-4797-B078-180D7EADA94A"
+    },
+    {
+      "class": "shapePath",
+      "id": "205C121C-BA46-4A7A-BA83-B6260041B4D8"
+    },
+    {
+      "class": "shapePath",
+      "id": "0C256713-0D66-49DA-AC6D-298CABD4D7AB"
+    },
+    {
+      "class": "shapePath",
+      "id": "03EA8137-7EFA-4722-AAD1-6F033072EA94"
+    },
+    {
+      "class": "shapePath",
+      "id": "3EDC1A01-A8F7-49E6-BE91-CB3FE973F483"
+    },
+    {
+      "class": "shapePath",
+      "id": "F10CC9F8-14EC-4BD5-B39B-6EE428286E6C"
+    },
+    {
+      "class": "shapePath",
+      "id": "1412C200-34D8-4FFA-A237-D6375F67BEA5"
+    },
+    {
+      "class": "shapePath",
+      "id": "EA0F95A4-F947-48D3-A470-CD8977C73690"
+    },
+    {
+      "class": "shapePath",
+      "id": "4FF4C1D4-BBAC-41C0-B6DB-D2F6F2A1A2FB"
+    },
+    {
+      "class": "shapePath",
+      "id": "40541B6C-CAD3-49DE-B557-C328BA0756EE"
+    },
+    {
+      "class": "shapePath",
+      "id": "C152507B-8EB1-46A9-BDBD-EE9F4C5C220F"
+    },
+    {
+      "class": "shapePath",
+      "id": "FB20DE1E-39BD-4FBF-AE3C-2C5D144536F2"
+    },
+    {
+      "class": "shapePath",
+      "id": "6D04AA13-9996-49E5-805B-E770A68E1788"
+    },
+    {
+      "class": "shapePath",
+      "id": "07FD6FC6-78B7-4721-AADF-8C8EF46643D5"
+    },
+    {
+      "class": "shapePath",
+      "id": "54037BC9-AAAC-4764-B2B0-42004394E869"
+    },
+    {
+      "class": "shapePath",
+      "id": "1B9820BD-EF24-42DF-81CF-B7A34935E334"
+    },
+    {
+      "class": "shapePath",
+      "id": "040EED9A-CE80-4F96-BD3A-C3E0CEC68980"
+    },
+    {
+      "class": "shapePath",
+      "id": "DEAB74BE-907F-4005-AF97-B2851D2E4267"
+    },
+    {
+      "class": "shapePath",
+      "id": "1D9095CC-AEDA-401D-B0F7-02F710229DF7"
+    },
+    {
+      "class": "shapePath",
+      "id": "A917B24D-C5C3-4133-8FD2-221FD69EDDCC"
+    },
+    {
+      "class": "shapePath",
+      "id": "380124D1-9E57-4BB9-ACBB-CB5342A32CCC"
+    },
+    {
+      "class": "shapePath",
+      "id": "13297224-27B7-40FC-BA8B-C0CE35931A19"
+    },
+    {
+      "class": "shapePath",
+      "id": "49114774-9EBD-47A2-87E8-B356A59268A0"
+    },
+    {
+      "class": "shapePath",
+      "id": "1FFC9CB8-C2E0-4F92-9494-77C0F3BDE856"
+    },
+    {
+      "class": "shapePath",
+      "id": "1D4EB835-1323-42BB-9FE4-0053B170E99A"
+    },
+    {
+      "class": "shapePath",
+      "id": "4396F2C1-77C4-4137-A69C-BDEB7365A510"
+    }
+  ],
+  "name": "Shape",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7725490196078433,
+          "green": 0.796078431372549,
+          "red": 0.2117647058823529
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

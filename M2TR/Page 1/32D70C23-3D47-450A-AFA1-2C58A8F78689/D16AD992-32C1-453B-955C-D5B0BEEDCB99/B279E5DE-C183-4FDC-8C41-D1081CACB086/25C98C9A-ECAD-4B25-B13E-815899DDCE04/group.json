@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "25C98C9A-ECAD-4B25-B13E-815899DDCE04",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 247,
+    "width": 1690,
+    "x": 61,
+    "y": 836
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "37B82975-43FE-48F6-87F3-7087459C53F8"
+    },
+    {
+      "class": "text",
+      "id": "F1450FAC-CBE7-4A54-89BF-6A65CD87C10D"
+    }
+  ],
+  "name": "2, Churches + mass",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "877F9BB1-76F4-4F3F-A2D4-192F09679361",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1371,
+    "width": 1282,
+    "x": 1832,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "08D38560-731A-4D9F-849D-16168791D3CC"
+    },
+    {
+      "class": "text",
+      "id": "8EC895F3-E2BB-410E-BE65-21F6AF7BB507"
+    },
+    {
+      "class": "group",
+      "id": "97B37723-2450-42C4-9994-DF1F62BCFD04"
+    },
+    {
+      "class": "group",
+      "id": "5B21D9C9-AFF5-407C-8CBE-0B519212EFE9"
+    }
+  ],
+  "name": "Around the household",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

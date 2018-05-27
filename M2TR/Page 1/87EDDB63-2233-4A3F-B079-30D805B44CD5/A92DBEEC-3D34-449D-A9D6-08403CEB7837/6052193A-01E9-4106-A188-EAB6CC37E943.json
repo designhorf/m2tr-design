@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbW5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAeHyAhIiMnLzAxMjM6PkpLTE1OT1BRUlRfYmVpVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADXxAPUHVibGljIGhvbGlkYXlz0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAJgBGAG4AaXxAoTVNBdHRyaWJ1dGVkU3RyaW5nVGV4dFRyYW5zZm9ybUF0dHJpYnV0ZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEBBOU1BhcmFncmFwaFN0eWxlEAHSCiQlJl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBCACtMREgooKy6iKSqAC4AMoiwtgA2ADoAPXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQD4AAAAAAABfEBBQcm94aW1hTm92YS1Cb2xk0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjNjg5XE5TRGljdGlvbmFyeVhOU09iamVjdNI0NTs8XxAQTlNGb250RGVzY3JpcHRvcqI9OV8QEE5TRm9udERlc2NyaXB0b3LTERIKP0QdpEBBQkOAEoATgBSAFaRFRkdIgBaAF4AYgBmAGlNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/wRERERERECM/8AAAAAAAACM/wRERERERECM/wRERERERENI0NThTojg51lVWV1gKWVpbIlxdXFpOU1RhYlN0b3BzW05TQWxpZ25tZW50XxASTlNXcml0aW5nRGlyZWN0aW9uXE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0c4AAEAKAHIAegBzSEgpgYaCAHdI0NWNkV05TQXJyYXmiYznSNDVmZ18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo2ZoOV8QEE5TUGFyYWdyYXBoU3R5bGXSNDVqa18QEk5TQXR0cmlidXRlZFN0cmluZ6JsOV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFvcFRyb290gAEACAARABoAIwAtADIANwBaAGAAZwBwAHcAhACGAIgAigCcAKMAqwC2ALsAvQC/AMEAwwDIAMoAzADOANAA0gD9AR8BTAFfAWEBZgGDAYUBhwGOAZEBkwGVAZgBmgGcAZ4BtAHKAdMB5gHrAfYB/wIVAhkCJgIvAjQCRwJKAl0CZAJpAmsCbQJvAnECdgJ4AnoCfAJ+AoAChAKKAo8ClQKeAqcCsAK5Ar4CwQLOAtkC5QL6AwcDEwMVAxcDGQMbAx0DIgMjAyUDKgMyAzUDOgNUA1gDawNwA4UDiAOdA68DsgO3AAAAAAAAAgEAAAAAAAAAcQAAAAAAAAAAAAAAAAAAA7k="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "6052193A-01E9-4106-A188-EAB6CC37E943",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 37,
+    "width": 258,
+    "x": 59,
+    "y": 167
+  },
+  "glyphBounds": "{{1, 7}, {256, 22}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Public holidays",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "BE0A4BA7-74FC-45D8-BCC7-253EEC6FE8A8"
+  },
+  "textBehaviour": 0
+}

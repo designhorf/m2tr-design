@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "2BBD1B2D-57D7-4222-BD22-A2DBE85B147B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 570,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6E91B8F0-B496-4C43-91C5-63BF81869469"
+    },
+    {
+      "class": "group",
+      "id": "69048BC2-D98D-4541-A367-33FAC6A78F5A"
+    },
+    {
+      "class": "group",
+      "id": "3DB3C229-1F9E-44B9-B07C-3E07BF8D4412"
+    },
+    {
+      "class": "group",
+      "id": "B790C2B0-3FFB-4A66-8C58-2A81DDB8ABE2"
+    }
+  ],
+  "name": "Net Salary Calc",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

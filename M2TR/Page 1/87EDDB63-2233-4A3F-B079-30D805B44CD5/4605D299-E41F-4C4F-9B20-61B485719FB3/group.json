@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "4605D299-E41F-4C4F-9B20-61B485719FB3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 248,
+    "width": 276,
+    "x": 50,
+    "y": 248
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "108781EA-33D2-4CC8-86CA-24DD12A5E135"
+    },
+    {
+      "class": "text",
+      "id": "0B88B9E5-F381-4D9E-B5B8-68FF3ECC4DEA"
+    },
+    {
+      "class": "text",
+      "id": "E2FB9754-3546-46AB-851B-0AA43164143E"
+    }
+  ],
+  "name": "islands",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12.99999952316284,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

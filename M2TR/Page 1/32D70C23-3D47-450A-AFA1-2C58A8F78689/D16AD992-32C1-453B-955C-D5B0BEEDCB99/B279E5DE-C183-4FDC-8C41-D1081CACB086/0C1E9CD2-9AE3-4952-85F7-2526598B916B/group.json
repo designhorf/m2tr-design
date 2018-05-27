@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "0C1E9CD2-9AE3-4952-85F7-2526598B916B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 196,
+    "width": 1690,
+    "x": 61,
+    "y": 574
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "CA3253D7-E76B-4F54-B894-6AA464DA4190"
+    },
+    {
+      "class": "text",
+      "id": "45000D8E-EC3E-47AF-AA0E-5F9A79EF12B4"
+    }
+  ],
+  "name": "1, Siesta",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

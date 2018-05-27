@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "5B21D9C9-AFF5-407C-8CBE-0B519212EFE9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 420,
+    "width": 1223,
+    "x": 59,
+    "y": 574
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D6C03E27-5C9B-4CA3-9FC8-D0E5F3F69A84"
+    },
+    {
+      "class": "text",
+      "id": "0B72AAB2-0E17-4418-9BA8-D954F91204CF"
+    },
+    {
+      "class": "text",
+      "id": "C9C16B6D-859C-4044-9DD2-F35424C9BDDA"
+    }
+  ],
+  "name": "1, UK plug",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

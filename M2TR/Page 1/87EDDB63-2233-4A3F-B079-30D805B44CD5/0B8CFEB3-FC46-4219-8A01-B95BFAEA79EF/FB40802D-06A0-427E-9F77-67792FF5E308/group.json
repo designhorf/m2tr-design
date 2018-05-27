@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "FB40802D-06A0-427E-9F77-67792FF5E308",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 81,
+    "width": 295,
+    "x": 0,
+    "y": 52
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "CDB8BE31-BA29-4671-8A41-E9DC2BFA37B0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8515ECC6-2658-4B0B-BE1B-66DCADF7C94F"
+    },
+    {
+      "class": "text",
+      "id": "6100CB0B-63BC-4930-9B6D-E9CC31BF8B38"
+    },
+    {
+      "class": "text",
+      "id": "92ABD281-2566-42A6-9013-A9A3341FDE2E"
+    }
+  ],
+  "name": "bank holidays",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

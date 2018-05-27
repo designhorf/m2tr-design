@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "3DB3C229-1F9E-44B9-B07C-3E07BF8D4412",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 157,
+    "width": 375,
+    "x": 0,
+    "y": 194
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5502B4E8-1AAC-4C2C-A2DC-D764D523645C"
+    },
+    {
+      "class": "group",
+      "id": "4A72345E-F86C-4823-B3AF-297A173FAE36"
+    },
+    {
+      "class": "group",
+      "id": "8A95B548-A1EA-4EAC-84CD-6F83366C69FD"
+    },
+    {
+      "class": "group",
+      "id": "842955B2-A427-4B1B-B060-C35D94C3E1E3"
+    }
+  ],
+  "name": "Monthly",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

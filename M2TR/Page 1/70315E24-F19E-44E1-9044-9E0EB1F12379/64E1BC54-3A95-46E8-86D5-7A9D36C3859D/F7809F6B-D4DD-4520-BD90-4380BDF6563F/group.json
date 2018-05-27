@@ -1,0 +1,114 @@
+{
+  "_class": "group",
+  "do_objectID": "F7809F6B-D4DD-4520-BD90-4380BDF6563F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 304,
+    "width": 345,
+    "x": 0,
+    "y": 339
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6BDA9868-0D3F-47C1-84FD-C152217E3E13"
+    },
+    {
+      "class": "group",
+      "id": "E5846EFE-CFD7-4844-8EE8-51B30612ED12"
+    },
+    {
+      "class": "group",
+      "id": "DBADA46C-A48F-4122-870A-2C3A32C83F6D"
+    },
+    {
+      "class": "group",
+      "id": "0B69B976-560B-4500-9941-FCDC5A8E216D"
+    },
+    {
+      "class": "group",
+      "id": "FE0B1196-B697-4074-B146-BA0A1902A2D2"
+    },
+    {
+      "class": "group",
+      "id": "0E694B3B-B66A-47D0-B734-E807E19852FB"
+    },
+    {
+      "class": "group",
+      "id": "EA5120F2-51C0-40E4-BF7D-33E2B5082BE4"
+    },
+    {
+      "class": "group",
+      "id": "4968A15F-B791-4C1D-A23A-F439298FE8CB"
+    },
+    {
+      "class": "group",
+      "id": "3336313C-1A1B-40A7-B626-C00ECE88270C"
+    },
+    {
+      "class": "group",
+      "id": "C67203CA-D977-46E9-84F9-502CD792963E"
+    },
+    {
+      "class": "group",
+      "id": "200E3F9F-08CD-4525-8605-0951CDFFE7D3"
+    },
+    {
+      "class": "group",
+      "id": "E84C477C-F056-4F1E-B192-8D9EB1D44A8A"
+    },
+    {
+      "class": "group",
+      "id": "5CFD2551-D735-44BE-8C15-ACCE733B15C1"
+    },
+    {
+      "class": "group",
+      "id": "D31123E9-801C-4D77-A9A7-1002C8863220"
+    }
+  ],
+  "name": "icons copy 3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.203619909502262,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
