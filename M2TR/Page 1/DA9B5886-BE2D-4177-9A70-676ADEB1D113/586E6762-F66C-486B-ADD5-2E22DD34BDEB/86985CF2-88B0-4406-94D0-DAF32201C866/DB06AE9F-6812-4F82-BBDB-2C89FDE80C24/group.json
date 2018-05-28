@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "DB06AE9F-6812-4F82-BBDB-2C89FDE80C24",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 43,
+    "width": 81,
+    "x": 169,
+    "y": 128
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B9117F02-8E64-44C9-98B3-E053F7C2524B"
+    },
+    {
+      "class": "text",
+      "id": "E5FC2B47-8903-428F-B823-DF70813DC8A2"
+    }
+  ],
+  "name": "Mark",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
