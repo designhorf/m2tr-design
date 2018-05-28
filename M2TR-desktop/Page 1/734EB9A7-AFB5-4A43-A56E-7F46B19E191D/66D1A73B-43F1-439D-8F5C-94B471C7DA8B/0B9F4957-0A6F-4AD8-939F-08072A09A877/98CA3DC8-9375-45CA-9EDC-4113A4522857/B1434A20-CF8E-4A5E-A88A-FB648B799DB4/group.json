@@ -1,0 +1,101 @@
+{
+  "_class": "group",
+  "do_objectID": "B1434A20-CF8E-4A5E-A88A-FB648B799DB4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 292.5,
+    "width": 340.2298850574712,
+    "x": 394.7667342799189,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2D7A109B-46D5-4C36-8EE5-3D38E0AD68D9"
+    },
+    {
+      "class": "group",
+      "id": "F958E255-D0B0-4764-8AD4-4A9E8AB5BB01"
+    },
+    {
+      "class": "group",
+      "id": "57858227-F66A-4D4E-9ACA-1BDBF83E94CB"
+    },
+    {
+      "class": "group",
+      "id": "54411D40-A642-4BB4-8CFA-34903D62A9E6"
+    },
+    {
+      "class": "group",
+      "id": "B0DC2D1E-1C9D-4528-BEC1-2305AABD397D"
+    },
+    {
+      "class": "group",
+      "id": "1401A66C-22C3-47D6-B967-97424470317A"
+    },
+    {
+      "class": "group",
+      "id": "86DD3CE8-1108-42C5-800E-CCC9E3568BC0"
+    },
+    {
+      "class": "group",
+      "id": "946E7CEE-8240-4F76-AF1C-901F47ACD574"
+    },
+    {
+      "class": "group",
+      "id": "4B27B98C-DFBA-4EB8-B49B-E1DC5B165AD8"
+    },
+    {
+      "class": "group",
+      "id": "1006383A-AD3E-4E40-8A63-6306DA96966A"
+    },
+    {
+      "class": "group",
+      "id": "B44453A4-ADBD-4DA2-BE57-AA6C8E8F2A63"
+    },
+    {
+      "class": "group",
+      "id": "351D66DA-9948-4162-BFAF-856D8EB18FE1"
+    },
+    {
+      "class": "group",
+      "id": "76D18C04-ECB2-43E4-8059-CA569F0F82A4"
+    }
+  ],
+  "name": "icons 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

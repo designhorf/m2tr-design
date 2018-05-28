@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "56C37AC6-6B93-4B1D-8ABD-BB4D97A741D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 55,
+    "width": 139,
+    "x": 300,
+    "y": 387
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C55E0CCB-552C-45A4-8CF5-14577DD049CC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E202E59B-1958-4513-B51F-05A6579D496C"
+    },
+    {
+      "class": "text",
+      "id": "77CC30B9-75A5-4368-B2D6-8F347339290D"
+    }
+  ],
+  "name": "unemployment rate",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

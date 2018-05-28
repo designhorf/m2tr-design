@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "0E3A0753-1EAF-40B5-9220-1AE2409B7414",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 120,
+    "width": 295,
+    "x": 0,
+    "y": 141
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "EEB1B57F-948C-4FCC-9738-C3E67E9178FD"
+    },
+    {
+      "class": "group",
+      "id": "FE909D0D-2C71-46B3-A424-72FA95742CA6"
+    },
+    {
+      "class": "group",
+      "id": "D24B703F-5402-4D58-9452-5E0E565EDE37"
+    }
+  ],
+  "name": "Tax + NI + ID",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

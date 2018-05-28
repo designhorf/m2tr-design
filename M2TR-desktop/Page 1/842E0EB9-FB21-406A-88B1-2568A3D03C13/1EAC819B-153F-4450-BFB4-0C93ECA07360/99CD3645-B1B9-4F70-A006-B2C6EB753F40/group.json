@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "99CD3645-B1B9-4F70-A006-B2C6EB753F40",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 105,
+    "width": 320,
+    "x": 340,
+    "y": 62
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C9C16B01-8490-443D-A978-9D3624F10E61"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "23BEA54F-334D-4881-91B4-D44534B19E93"
+    },
+    {
+      "class": "text",
+      "id": "8FD8BBB3-C043-494D-94C8-044DF8DCAACA"
+    },
+    {
+      "class": "text",
+      "id": "D97FFBAD-427D-4953-A577-1359490ACCEB"
+    }
+  ],
+  "name": "days of sunshine",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

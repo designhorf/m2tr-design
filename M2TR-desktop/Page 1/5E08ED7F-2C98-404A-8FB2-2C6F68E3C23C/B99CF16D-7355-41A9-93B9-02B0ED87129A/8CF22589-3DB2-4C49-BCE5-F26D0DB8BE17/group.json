@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "8CF22589-3DB2-4C49-BCE5-F26D0DB8BE17",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 66,
+    "width": 119,
+    "x": 0,
+    "y": 100
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "1CAF9C29-1C7C-4FCB-BB49-FF1AD53EF6F7"
+    },
+    {
+      "class": "group",
+      "id": "C79F9E8E-0D6C-488F-B117-7EC5D4BBDEAD"
+    }
+  ],
+  "name": "Eng speaking",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

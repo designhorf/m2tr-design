@@ -1,0 +1,147 @@
+{
+  "_class": "group",
+  "do_objectID": "9A3678F3-CC67-4C12-8776-ACFFFC446533",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 29.15068493150685,
+    "width": 31.22171945701358,
+    "x": 311.1764705882353,
+    "y": 117.1232876712329
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "47F77552-8DFC-4526-B3B2-B07240F92EBB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4FA51FEF-1388-4624-BA48-F57EAB04F704"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "006F556D-404F-4199-A73B-3D0C92176CFC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7E86B021-A4A4-40B5-BBC0-506FE3D482F9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F86E109A-7566-41F4-A59E-1C2CF5726CCF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DCFA277C-27A7-449F-8F55-7E89E7A0B369"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "063DFA86-103D-456F-BF37-40CEBB3947BB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C3C5278D-F1C2-4CD4-8FC4-81F3A6A4403F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0F0AAE25-E04A-4072-88B9-AEDA3BF7929D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3031CE5A-569A-44A1-B60A-6A15E2F942EC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1208377F-09CC-4FC4-9263-0F983A16425F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "51E3E7EA-062B-4562-AB36-AE187AF60E41"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "343EB40C-A179-4C7C-BFBE-6A45882E3F21"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ECBFB80C-8847-4685-809C-DC6BEF2C9625"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "740D84B1-3AB1-44BD-AC2E-6B21142B4A26"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "39DD8DC7-E01A-4BBD-A45A-90F1FF118344"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2AA93E54-93DE-45AE-BD85-589F7FB86706"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DDD2B39E-1CD4-4F8D-9AAD-A0AEA17B15E4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A28DCD74-00C5-47CE-ACEB-029B11271036"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "592886C1-F932-4E30-88E3-AF837883D8A4"
+    }
+  ],
+  "name": "fireworks",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.6088235070802509,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

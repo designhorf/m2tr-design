@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "4C46B5C6-7D65-4251-B166-F8FE64463CAE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 70,
+    "x": 113,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "AC6645D3-56C6-49C6-AE86-73B2B2DAF2A4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E6183544-FF62-43EA-BC91-550FD72D32B3"
+    },
+    {
+      "class": "text",
+      "id": "AE352446-3B23-4FE6-8899-0A2AED7C6AB3"
+    }
+  ],
+  "name": "Flat Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

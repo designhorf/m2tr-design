@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "E33CBB25-20D1-4060-9608-FA34F081782C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 75,
+    "width": 295,
+    "x": 222,
+    "y": 547
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "477A6069-CF66-47CE-A0B0-8A5A061F07E0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "125B07ED-044B-4058-A5EA-C6FE986454DB"
+    },
+    {
+      "class": "text",
+      "id": "402B61FA-795F-484A-A7D2-E3263907F62C"
+    }
+  ],
+  "name": "avg 2 bed apartments",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

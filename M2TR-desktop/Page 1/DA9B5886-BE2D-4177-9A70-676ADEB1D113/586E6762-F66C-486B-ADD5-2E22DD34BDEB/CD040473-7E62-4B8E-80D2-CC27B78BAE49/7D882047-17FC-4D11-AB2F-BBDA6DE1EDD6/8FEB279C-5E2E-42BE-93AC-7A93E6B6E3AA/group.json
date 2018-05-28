@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "8FEB279C-5E2E-42BE-93AC-7A93E6B6E3AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 27,
+    "width": 246,
+    "x": 49,
+    "y": 128
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6DEF4740-CCBF-4A69-9D44-F1F566C2F56B"
+    },
+    {
+      "class": "text",
+      "id": "61627C0D-9DB3-438C-80AC-4B6D6CED98BD"
+    }
+  ],
+  "name": "Net Sal Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

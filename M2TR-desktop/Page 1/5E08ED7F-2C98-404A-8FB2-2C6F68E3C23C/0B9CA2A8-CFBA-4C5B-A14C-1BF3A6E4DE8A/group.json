@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "0B9CA2A8-CFBA-4C5B-A14C-1BF3A6E4DE8A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 99,
+    "width": 190,
+    "x": 87,
+    "y": -1
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D4A3968D-8057-4B16-A310-43B59E59ACB4"
+    },
+    {
+      "class": "group",
+      "id": "4CE1B9F8-FD94-48E5-9B5B-9487CC92D71E"
+    }
+  ],
+  "name": "Logo M2TR",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

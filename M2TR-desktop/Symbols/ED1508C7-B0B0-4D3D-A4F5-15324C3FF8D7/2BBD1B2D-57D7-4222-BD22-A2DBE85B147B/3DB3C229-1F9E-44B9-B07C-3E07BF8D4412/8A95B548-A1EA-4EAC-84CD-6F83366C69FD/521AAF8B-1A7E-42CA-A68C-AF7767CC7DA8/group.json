@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "521AAF8B-1A7E-42CA-A68C-AF7767CC7DA8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 17,
+    "width": 197,
+    "x": 14,
+    "y": 63
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "4F548CAC-7EE9-44E3-9CFE-AD306369F9BF"
+    },
+    {
+      "class": "text",
+      "id": "E9F23D8B-67E8-4A02-BDAE-C4A62130CD00"
+    }
+  ],
+  "name": "Tax",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

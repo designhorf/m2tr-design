@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "8A95B548-A1EA-4EAC-84CD-6F83366C69FD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 86,
+    "width": 215,
+    "x": 59,
+    "y": 30
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5456A95D-44A8-4D2C-95E6-BE5D3EC99FBE"
+    },
+    {
+      "class": "group",
+      "id": "521AAF8B-1A7E-42CA-A68C-AF7767CC7DA8"
+    },
+    {
+      "class": "group",
+      "id": "BD16E868-C278-4629-AB84-A4A2FC20E924"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9848A335-7721-4484-A601-FC672103053C"
+    }
+  ],
+  "name": "Deductions",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

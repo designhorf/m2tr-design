@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "EAE99EEC-3140-4AD8-8F88-75F9D9ED3718",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 120,
+    "width": 295,
+    "x": 0,
+    "y": 286
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "972B3C0C-DDA8-49BF-857B-A31826C6703E"
+    },
+    {
+      "class": "group",
+      "id": "5B52FB89-84AD-4D2A-81B8-5F13351B124B"
+    }
+  ],
+  "name": "Open a Bank account",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
