@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "do_objectID": "2F39FD65-0D1B-401D-9659-6A9A95DEE37B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 24,
+    "width": 63,
+    "x": 611,
+    "y": 242
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BBC144DA-8675-44A6-9E6A-344751498ACE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BEB965FE-51C3-468D-8C63-9636341F7AC1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EFC0B5A1-96B2-4D27-98EE-72F4A7D33F55"
+    }
+  ],
+  "name": "fish-white",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
